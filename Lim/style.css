@@ -1,0 +1,74 @@
+.Contenitore{
+  width: 1200px;
+  height: 900px;
+  margin: auto;
+  padding: 100px;
+  text-align: center;
+  border: 0px solid black;
+  border-radius: 50px;
+  background-color: rgba(0,0,0,0.5);
+  box-sizing: border-box;
+
+
+
+}
+.logo{
+  width: 250px;
+}
+.logotext{
+  font-size: 35px;
+  color: #00dd00;
+}
+nav{
+  border: 5px solid #00dd00;
+  background-color: #00dd00;
+
+}
+body{
+  background-image: url(Img/background.jpg);
+  background-size: cover;
+
+}
+main{
+  text-align: left;
+  margin-top: 25px;
+  font-size: 25px;
+  color: white;
+}
+p{
+  font-size: 15px;
+
+}
+.Status{
+  font-size: 15px;
+}
+.Bar3{
+  border: 10px solid green;
+  background-color: green;
+  border-radius: 25px 25px;
+  width: 80%;
+  margin-top: 5px;
+  margin-bottom: 20px;
+
+}
+.Bar2{
+  border: 10px solid red;
+  background-color: red;
+  border-radius: 25px 25px;
+  width: 25%;
+  margin-top: 5px;
+  margin-bottom: 20px;
+}
+.Bar1{
+  border: 10px solid orange;
+  background-color: orange;
+  border-radius: 25px 25px;
+  width: 45%;
+  margin-top: 5px;
+  margin-bottom: 20px;
+}
+footer{
+  text-align: right;
+  color: black;
+  font-size: 10px;
+}
